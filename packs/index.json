@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "sakurada_shiro.json"
+  ],
+  "homeserver_url": "https://mozilla.modular.im"
+}
