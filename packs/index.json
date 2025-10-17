@@ -1,7 +1,8 @@
 {
   "packs": [
     "sakurada_shiro.json",
-    "ovocz_7.json"
+    "ovocz_7.json",
+    "misono_ichika.json"
   ],
   "homeserver_url": "https://mozilla.modular.im"
 }
